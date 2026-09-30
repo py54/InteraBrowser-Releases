@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "notes": "Tabs with drag-to-reorder and colored collapsible groups, a custom Intera New Tab page (no more Google clutter), a Google sign-in entry point, a language/auto-translate picker in the corner, folder bookmarks with working right-click menus on the bookmarks bar too, a fixed tab close icon, and general interactivity polish.",
+  "version": "1.0.3",
+  "notes": "Native Chromium password-save/autofill, camera/mic/location/notification permission popups with a tab indicator icon, per-tab mute + volume control, address-bar autocomplete (history + live Google Suggest, Tab to complete), New Tab page now shows your 5 most-visited sites and correctly reflects Google sign-in state, bookmarks bar overflow menu, and tab-strip alignment/drag/icon polish.",
   "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/Intera-Installer.exe",
   "appUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/InteraBrowser.exe"
 }
