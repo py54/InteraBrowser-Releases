@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial release of Intera Browser: Chrome-style toolbar, bookmarks, history, light/dark theme, and auto-update support.",
+  "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/download/v1.0.0/InteraBrowserSetup.exe"
+}
