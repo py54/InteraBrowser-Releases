@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "notes": "Tabs with per-site favicons, folder bookmarks (right-click to rename, create folders, move bookmarks), address-bar fixes, and auto-update now defaults to OFF (you'll get a prompt instead) unless turned on in Settings.",
+  "version": "1.0.2",
+  "notes": "Tabs with drag-to-reorder and colored collapsible groups, a custom Intera New Tab page (no more Google clutter), a Google sign-in entry point, a language/auto-translate picker in the corner, folder bookmarks with working right-click menus on the bookmarks bar too, a fixed tab close icon, and general interactivity polish.",
   "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/Intera-Installer.exe",
   "appUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/InteraBrowser.exe"
 }
