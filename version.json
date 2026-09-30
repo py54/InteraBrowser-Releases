@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial release of Intera Browser: Chrome-style toolbar, bookmarks, history, light/dark theme, and auto-update support.",
-  "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/download/v1.0.0/InteraBrowserSetup.exe"
+  "version": "1.0.1",
+  "notes": "Installer now always fetches and installs the latest version at install time (with a Terms of Use / Privacy Policy step). In-app updates install automatically and silently, with no prompts, unless disabled in Settings.",
+  "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/Intera-Installer.exe",
+  "appUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/InteraBrowser.exe"
 }
