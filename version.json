@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "notes": "First-run welcome wizard (language/region, optional Google sign-in), session restore across restarts, drag a tab into a group with a colored underline, startup window now forces itself to the foreground after the splash, New Tab page's search box has the same autocomplete as the address bar, and language/auto-translate are now also in Settings. Fixed two real bugs: New Tab page detection and a navigation race condition.",
+  "version": "1.0.5",
+  "notes": "Startup now waits for the home page to actually finish loading before the window appears (no more blank-window flash); window is forced to the foreground reliably. Crash recovery: if Intera didn't close cleanly last time, you're asked before restoring tabs. Dark mode now also switches Chromium's own dark UI and any site that supports prefers-color-scheme. Account dropdown no longer feels broken/needs spam-clicking.",
   "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/Intera-Installer.exe",
   "appUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/InteraBrowser.exe"
 }
