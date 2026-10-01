@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "notes": "Native Chromium password-save/autofill, camera/mic/location/notification permission popups with a tab indicator icon, per-tab mute + volume control, address-bar autocomplete (history + live Google Suggest, Tab to complete), New Tab page now shows your 5 most-visited sites and correctly reflects Google sign-in state, bookmarks bar overflow menu, and tab-strip alignment/drag/icon polish.",
+  "version": "1.0.4",
+  "notes": "First-run welcome wizard (language/region, optional Google sign-in), session restore across restarts, drag a tab into a group with a colored underline, startup window now forces itself to the foreground after the splash, New Tab page's search box has the same autocomplete as the address bar, and language/auto-translate are now also in Settings. Fixed two real bugs: New Tab page detection and a navigation race condition.",
   "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/Intera-Installer.exe",
   "appUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/InteraBrowser.exe"
 }
