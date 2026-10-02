@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "notes": "Startup now waits for the home page to actually finish loading before the window appears (no more blank-window flash); window is forced to the foreground reliably. Crash recovery: if Intera didn't close cleanly last time, you're asked before restoring tabs. Dark mode now also switches Chromium's own dark UI and any site that supports prefers-color-scheme. Account dropdown no longer feels broken/needs spam-clicking.",
+  "version": "1.0.6",
+  "notes": "Redesigned main menu as a floating card with hover/open animations; removed the bottom bar (language & region now live in Settings). Tabs now slide when opened, closed, or reordered instead of snapping. Fixed a bug where dragging a tab could glitch/misalign the tab strip. The app now always opens with a single tab first, then asks (top-right, non-blocking) whether to restore your previous tabs, instead of silently restoring them. Startup now does a deliberate fade-in instead of popping the window in instantly. Update prompt copy now says tabs will be restored after updating.",
   "installerUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/Intera-Installer.exe",
   "appUrl": "https://github.com/py54/InteraBrowser-Releases/releases/latest/download/InteraBrowser.exe"
 }
